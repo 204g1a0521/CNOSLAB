@@ -1,6 +1,6 @@
-/* Name Of the Candidate: L. Ashok
-   Roll No: 204G1A0501
-   Title of the Experiment: CPU Scheduling Using FCFS Algorithm
+/* Name Of the Candidate: M BHARGAVI
+   Roll No: 204G1A0521
+   Title of the Experiment: CPU Scheduling Using SJF Algorithm
    Date of Creation: 29-09-2022
    Date of Execution: 29-09-2022
 */
