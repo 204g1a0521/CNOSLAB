@@ -1,5 +1,5 @@
 /* Name Of the Candidate: M BHARGAVI
-   Roll No: 204G1A0501
+   Roll No: 204G1A0521
    Title of the Experiment: CPU Scheduling Using priority based Algorithm
    Date of Creation: 29-09-2022
    Date of Execution: 29-09-2022
